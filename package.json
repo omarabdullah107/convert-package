@@ -1,5 +1,5 @@
 {
-  "name": "convert",
+  "name": "@omarabdullah107/convert",
   "version": "1.0.0",
   "description": "it converts measurement units",
   "main": "index.js",
